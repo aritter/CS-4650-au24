@@ -6,6 +6,8 @@ Aug 21
 : [Course Introduction](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+<!---
+
 Aug 23
 : [Machine Learning](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -71,8 +73,6 @@ Nov 27
 Nov 29
 : [Virutal Guest lecture by Yi Luan (Google AI Language)](https://luanyi.github.io/)
 
-
-<!---
 
 Mar 29
 : [Pre-training (cont), BART, T5, GPT-3](https://aritter.github.io/CS-4650-au23/slides/lec14-bart_gpt3.pdf)

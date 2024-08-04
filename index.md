@@ -17,11 +17,11 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-- Location: Klaus Advanced Computing Building 2443
+- Location: Scheller College of Business 203
 - Time: MW 5:00 pm - 6:15 pm
-- [Piazza](https://piazza.com/gatech/fall2023/cs4650/) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/569792) (homework assignments, submission and grading)
-- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/18bebSK8INSUlMPV7kc7hW6wLVxWj6x3yr4QsHn8ssnY/edit#gid=0)
+- [Piazza](https://piazza.com/gatech/fall2024/cs4650/) (announcements, questions, discussion)
+- [Gradescope](https://www.gradescope.com/courses/815066) (homework assignments, submission and grading)
+- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/16sXgPtwr_oPrw0XhVvBfcA-3T2fqheKUGMP457nG7DM/edit?usp=sharing)
 
 {% for module in site.modules %}
 {{ module }}

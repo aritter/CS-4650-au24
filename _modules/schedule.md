@@ -2,20 +2,26 @@
 title: Schedule
 ---
 
-Aug 21
+Aug 19
 : [Course Introduction](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-<!---
-
-Aug 23
+Aug 21
 : [Machine Learning](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Aug 22
+: [Problem Set 1 Due](https://github.com/aritter/CS-4650-au23/raw/master/slides/pset0.pdf)
+
+Sep 5
+: [Project 1 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP
+
+<!---
+
 
 Aug 28
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au23/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
 
 Sep 6
 : [Neural Networks in NLP](https://aritter.github.io/CS-4650-au23/slides/lec6-nn.pdf)

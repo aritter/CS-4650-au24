@@ -11,10 +11,10 @@ Aug 21
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 22
-: [Problem Set 1 Due](https://github.com/aritter/CS-4650-au23/raw/master/slides/pset0.pdf)
+: [Problem Set 1 Due](https://github.com/aritter/CS-4650-au24/raw/master/slides/pset0.pdf)
 
 Sep 5
-: [Project 1 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP
+: [Project 1 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP)
 
 <!---
 

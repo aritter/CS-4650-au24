@@ -3,11 +3,11 @@ title: Schedule
 ---
 
 Aug 19
-: [Course Introduction](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec1-intro.pdf)
+: [Course Introduction](https://github.com/aritter/CS-4650-au24/raw/master/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 21
-: [Machine Learning](https://github.com/aritter/CS-4650-au23/raw/master/slides/lec2-ml.pdf)
+: [Machine Learning](https://github.com/aritter/CS-4650-au24/raw/master/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Aug 22

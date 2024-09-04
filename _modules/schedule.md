@@ -14,15 +14,18 @@ Aug 28
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-4650-au24/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Sep 4
+: [Neural Networks in NLP](https://aritter.github.io/CS-4650-au23/slides/lec6-nn.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+
 Sep 5
 : [Project 0 Due](https://colab.research.google.com/drive/1aPoOYPZWRtNsZWjp66hTAHy21WiLXJ2Y#scrollTo=TTsQ9OXO2VaP)
 
+Sep 30
+: No Class
+
 <!---
 
-
-Sep 6
-: [Neural Networks in NLP](https://aritter.github.io/CS-4650-au23/slides/lec6-nn.pdf)
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Sep 13
 : [Sequence Models](https://aritter.github.io/CS-4650-au23/slides/lec4-seq1.pdf) 

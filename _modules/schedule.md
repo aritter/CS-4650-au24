@@ -36,15 +36,15 @@ Sep 25
 Sep 30
 : No Class
 
+Oct 7
+: [Recurrent Neural Networks](https://aritter.github.io/CS-4650-au24/slides/lec8-nn3.pdf)
+  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 <!---
 
 
 Sep 19
 : Problem Set 1 Due
-
-Oct 2
-: [Recurrent Neural Networks](https://aritter.github.io/CS-4650-au24/slides/lec8-nn3.pdf)
-  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 18
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-4650-au24/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-4650-au24/slides/course_project.pdf)

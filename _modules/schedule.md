@@ -38,6 +38,9 @@ Oct 7
   : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Oct 14
+: Fall Break
+
+Oct 16
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-4650-au24/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-4650-au24/slides/course_project.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 

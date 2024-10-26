@@ -48,6 +48,9 @@ Oct 21
 : [Machine Translation, Encoder-Decoder Networks and Attention](https://aritter.github.io/CS-4650-au24/slides/lec11-seqseq2.pdf)
   : [Eisenstein 18.3 -  18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Oct 28
+: No Class
+
 <!---
 Oct 30
 : [MT, Transformers](https://aritter.github.io/CS-4650-au24/slides/lec12-mt2.pdf)

@@ -58,7 +58,7 @@ Nov 18
   : [BART](https://aclanthology.org/2020.acl-main.703.pdf), [T5](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf), [GPT-3](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 Nov 20
-: Mike Lewis Guest Lecture
+: Mike Lewis Guest Lecture (Note: this is not at the usual time or location - see announcement on Piazza)
   : [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
 
 
